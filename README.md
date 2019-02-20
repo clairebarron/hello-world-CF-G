@@ -4,3 +4,5 @@ By default your repository has one branch named master which is considered to be
 
 When you create a branch off the master branch, you’re making a copy, or snapshot, of master as it was at that point in time. If someone else made changes to the master branch while you were working on your branch, you could pull in those updates.
 A new branch called feature (because we’re doing ‘feature work’ on this branch)
+
+  Commits are how you save changes, you can commit to a branch. you chould include a description on why you made this change
